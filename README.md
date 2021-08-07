@@ -1,0 +1,2 @@
+# schema
+Georeport schema
